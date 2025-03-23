@@ -100,9 +100,9 @@ Kirim pesan `/setkota jakarta` untuk menyimpan Jakarta sebagai kota default Anda
 ### Membandingkan Jadwal
 Kirim pesan `/bandingkan jakarta surabaya` untuk membandingkan jadwal sholat antara Jakarta dan Surabaya.
 
-## 🤝 Kontribusi
+## 🤝 Proyek Dasar
 
-Kontribusi sangat diterima! Silakan fork repository ini, buat branch fitur baru, dan kirimkan pull request.
+Proyek ini dari referensi proyek [classyid]([classyid](https://github.com/classyid/SholatBot-WhatsApp/tree/main))
 
 ## 📜 Lisensi
 
@@ -110,4 +110,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## 📞 Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru atau hubungi saya melalui email: kontak@classy.id
+Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru atau hubungi saya melalui email: veifaisal16@gmail.com
