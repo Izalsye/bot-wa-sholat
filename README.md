@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-7.0%2B-blue.svg)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.6%2B-orange.svg)](https://www.mysql.com/)
+[![NODE JS](https://img.shields.io/node/v/@open-wa/wa-automate)](https://nodejs.org/en)
 
 BotWASholat adalah webhook WhatsApp yang memudahkan umat Muslim untuk mengecek jadwal sholat di seluruh Indonesia. Dengan antarmuka WhatsApp yang sederhana, pengguna dapat mengakses jadwal sholat kapan saja dan di mana saja.
 
@@ -102,7 +103,7 @@ Kirim pesan `/bandingkan jakarta surabaya` untuk membandingkan jadwal sholat ant
 
 ## 🤝 Proyek Dasar
 
-Proyek ini dari referensi proyek [classyid]([classyid](https://github.com/classyid/SholatBot-WhatsApp/tree/main))
+Proyek ini dari referensi proyek [classyid](https://github.com/classyid/SholatBot-WhatsApp/tree/main)
 
 ## 📜 Lisensi
 
