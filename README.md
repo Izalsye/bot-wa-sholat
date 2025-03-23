@@ -41,8 +41,8 @@ BotWASholat adalah webhook WhatsApp yang memudahkan umat Muslim untuk mengecek j
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/classyid/SholatBot-WhatsApp.git
-   cd sholat-bot
+   git clone https://github.com/Izalsye/bot-wa-sholat.git
+   cd bot-wa-sholat
    ```
 
 2. Import skema database
