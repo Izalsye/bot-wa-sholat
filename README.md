@@ -102,7 +102,7 @@ Kirim pesan `/bandingkan jakarta surabaya` untuk membandingkan jadwal sholat ant
 
 ## 🤝 Proyek Dasar
 
-Proyek ini dari referensi proyek [classyid]([classyid](https://github.com/classyid/SholatBot-WhatsApp/tree/main))
+Proyek ini dari referensi proyek [classyid](https://github.com/classyid/SholatBot-WhatsApp/tree/main)
 
 ## 📜 Lisensi
 
