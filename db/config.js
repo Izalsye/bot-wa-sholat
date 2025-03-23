@@ -1,11 +1,11 @@
 const fs = require('fs');
 
 // Menyimpan variabel konfigurasi global
-global.sessionName = 'izalsye-server';
-global.linkwebhook = 'http://localhost/SholatBot-WhatsApp/';
-global.database = 'wabot';
-global.username = 'root';
-global.password = '';
+global.sessionName = 'izalsye-server'; //Ganti
+global.linkwebhook = 'http://localhost/SholatBot-WhatsApp/'; //Ganti
+global.database = 'wabot'; //Ganti
+global.username = 'root'; //Ganti
+global.password = ''; //Ganti
 global.owner = ['6282229738027'] //Ganti
 global.botName = 'Izalsye' //Ganti
 
